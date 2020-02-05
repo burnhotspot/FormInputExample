@@ -1,0 +1,13 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">FormInputExample</string>
+    <string name="name">Name:</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="email">Email:</string>
+    <string name="status">Work Status: </string>
+    <string name="next">NEXT</string>
+    <string name="tac">Do you Agree Terms and Conditions?</string>
+    <string name="test">abcdefghijklmnopqrstvwxyz</string>
+    <string name="exit_command_label">Exit</string>
+    <string name="next_command_prompt">Next</string>
+</resources>
